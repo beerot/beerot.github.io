@@ -26,7 +26,7 @@
             opacityOut:'0', 
             animatedIn:'zoomIn',
             animatedOut:'zoomOut',
-            animationDuration:'.6s', 
+            animationDuration:'5s', 
             overflow:'auto', 
             // Callbacks
             beforeOpen: function() {},           
